@@ -1,0 +1,3 @@
+[submodule "rust-mavlink"]
+	path = rust-mavlink
+	url = git@github.com:mavlink/rust-mavlink.git
